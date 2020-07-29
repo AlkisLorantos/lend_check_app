@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "223952318816",
+    "firebase_url": "https://loaned-money-tracker.firebaseio.com",
+    "project_id": "loaned-money-tracker",
+    "storage_bucket": "loaned-money-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223952318816:android:6261c699fde03234012e05",
+        "android_client_info": {
+          "package_name": "com.lorantos.loaned_money_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223952318816-f7ciitc8eromsc5nneahn00rao5tphfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7jMk8HL_OOaRmggNl_z-xL7ulzv95F4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223952318816-f7ciitc8eromsc5nneahn00rao5tphfv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "223952318816-n0j1jaqj9p1uct5cbriu7f0r36qh75ep.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lorantos.loanedMoneyTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
